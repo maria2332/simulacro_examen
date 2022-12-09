@@ -1,3 +1,4 @@
+
 # Leer el tamaño del tablero N y la posición inicial de las torres
 N = int(input())
 pos1 = []
