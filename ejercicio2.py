@@ -48,3 +48,4 @@ else:
     # Imprimir la posición actual de las torres
     for i in range(N):
         print(pos1[i], pos2[i])
+
