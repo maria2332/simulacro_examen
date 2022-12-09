@@ -15,6 +15,8 @@ Tu tarea es determinar el ganador del juego y su puntuación. El nombre y la pun
 o Draw si no hay ningún ganador.
 """
 
+from ast import main
+
 def minion_game(string):
     vowels = 'AEIOU'
     kevin_score = 0
@@ -31,6 +33,10 @@ def minion_game(string):
     else:
         print ("Draw")
 
-minion_game("salsa")
+minion_game("BANANA")
+
+if kevin_word == startswith("AEIOU")
+
 
 if __name__ == '__main__':   
+    main()
